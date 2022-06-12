@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f667b86-0144-4d73-bc48-80a8715841a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ball.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ball.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DebugConfig/Target_1_LPC1768.dbgconf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EventRecorderStub.scvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtDll.iex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLCD/AsciiLib.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLCD/AsciiLib.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLCD/GLCD.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLCD/GLCD.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLCD/HzLib.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLCD/HzLib.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JLink Regs CM3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JLinkLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JLinkSettings.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paddle.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paddle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RIT/IRQ_RIT.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RIT/RIT.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RIT/lib_RIT.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTE/_Target_1/RTE_Components.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TouchPanel/TouchPanel.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TouchPanel/TouchPanel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adc/IRQ_adc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adc/adc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adc/lib_adc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciilib.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciilib.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciilib.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button_EXINT/IRQ_button.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button_EXINT/button.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button_EXINT/lib_button.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core_cm3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core_cm3.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core_cm3.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core_cm3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra_points2_2022.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funct_joystick.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funct_joystick.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funct_joystick.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funct_led.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funct_led.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funct_led.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funct_timer.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funct_timer.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funct_timer.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glcd.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glcd.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glcd.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hzlib.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hzlib.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hzlib.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_adc.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_adc.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_adc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_button.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_button.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_button.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_rit.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_rit.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_rit.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_serial.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_serial.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_serial.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_systick.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_systick.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_systick.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_timer.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_timer.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irq_timer.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_adc.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_adc.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_adc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_button.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_button.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_button.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_joystick.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_joystick.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_joystick.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_led.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_led.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_led.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_rit.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_rit.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_rit.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_serial.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_serial.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_serial.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_systick.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_systick.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_timer.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_timer.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_timer.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paddle.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paddle.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paddle.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.axf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.build_log.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.lnp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.plg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.sct" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.tra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvguix.Black James" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvguix.Matteo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvguix.Paolo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvguix.benny" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvguix.james" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvguix.s292537" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvopt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvoptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvproj.saved_uv4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.uvprojx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_Target 1.dep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_sct.Bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_uvopt.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_uvproj.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serial.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serial.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serial.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startup_LPC17xx.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startup_LPC17xx.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startup_LPC17xx.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startup_lpc17xx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system_LPC17xx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system_lpc17xx.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system_lpc17xx.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system_lpc17xx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/IRQ_timer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/lib_timer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/timer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touchpanel.crf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touchpanel.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touchpanel.o" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ALSoBB9zRNYnJ6db40CvPNy8Ie" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/james/Documents/pong-game-LandTiger&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f667b86-0144-4d73-bc48-80a8715841a1" name="Changes" comment="" />
+      <created>1654787545049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654787545049</updated>
+      <workItem from="1654787546541" duration="1000" />
+      <workItem from="1654784205416" duration="407000" />
+      <workItem from="1654784616918" duration="221000" />
+      <workItem from="1655024440971" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
